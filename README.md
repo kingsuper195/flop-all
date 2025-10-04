@@ -3,7 +3,11 @@
 
 # flop.js
 
-flop.js is a Javascript interface for [Scratch](https://scratch.mit.edu). View the [docs](https://kingsuper195.github.io/flop-docs).
+flop.js is a Javascript interface for the [Scratch renderer](https://scratch.mit.edu). It provides a set of classes and functions that allow you to write Scratch-like 'block' code in Javascript.
+
+View the [docs](https://kingsuper195.github.io/flop-docs).
+
+## Project layout
 
 The project is split over four repositories:
 * [flop-vm](https://github.com/kingsuper195/flop-vm): the API for controlling flop.js
